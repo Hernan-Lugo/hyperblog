@@ -1,2 +1,2 @@
 # hyperblog
-Curso platzi y GitHub  Excelete
+Curso platzi y GitHub  Excelente
